@@ -12,3 +12,5 @@ Více info: https://tlukas.eu/uvod/notifikacni-plugin-pro-sunlight-cms
 
 ## Note
 Plugin ve výchozím nastavení odesílá e-maily na systémový e-mail (viz Nastavení systému) pokud toto chcete změnit, otevřete soubor postMail.php a na 44. řádku upravte e-mail ve funkci _mail!
+
+For Sunlight CMS 8 is same plugin called comment-notify: https://github.com/72tlukas72/comment-notify
